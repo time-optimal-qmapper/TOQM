@@ -1,5 +1,5 @@
 ## Reference
-If you are using TOQM for your research, we will much appreciate if refer to it by citing this publication:
+If you are using TOQM for your research, it will be greatly appreciated if you cite this publication:
 
     @inproceedings{zhang2021time,
       title={Time-optimal Qubit mapping},
